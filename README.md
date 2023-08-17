@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">Hello 👋🏽, I'm Riya Gandhi</h3>
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/riyangandhi"></a>
+  <a href="www.linkedin.com/in/riyangandhi"></a>
   <img src="https://img.shields.io/badge/LinkedIn-teal?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
