@@ -4,7 +4,7 @@
 <h3 align="center">Hello 👋🏽, I'm Riya Gandhi</h3>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/riyangandhi"></a>
-  <img src="https://img.shields.io/badge/LinkedIn-teal?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-teal?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" href="www.linkedin.com/in/riyangandhi"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
