@@ -58,9 +58,9 @@
 
 <h3> GitHub Stats: <h3/>
   <div>
-     <img src= "https://github-readme-stats.vercel.app/api?username=rng190001&show_icons=true&theme=nightowl"><img/>
+<!--      <img src= "https://github-readme-stats.vercel.app/api?username=rng190001&show_icons=true&theme=nightowl"><img/> -->
     <br><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rng190001&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><img/>
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rng190001&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><img/> -->
   </div>
 
 
