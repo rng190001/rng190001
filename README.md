@@ -21,8 +21,6 @@
 
 ### 📈 GitHub Stats
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=riya-gandhi&show_icons=true&theme=material-palenight" alt="Riya's GitHub Stats" />
-   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-gandhi&layout=compact&theme=material-palenight" alt="Top Languages" />
 </div>
 
