@@ -18,10 +18,10 @@
 </p>
 
 
-
+<!--
 ### 📈 GitHub Stats
 <div align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-gandhi&layout=compact&theme=material-palenight" alt="Top Languages" />
 </div>
-
+-->
 
